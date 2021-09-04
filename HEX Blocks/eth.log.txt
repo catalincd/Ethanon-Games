@@ -1,0 +1,39 @@
+[C:\Users\KTA\Desktop\Portofolio\res\Blocks\Windows & OSX\eth.log.txt]
+Backbuffer created as 480, 720 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+
+Compile time: 63 milliseconds
+(Loaded) block_bl2x.png
+(Loaded) blockx_b.png
+(Loaded) blockx_w.png
+(Loaded) button.png
+(Loaded) grey.png
+(Loaded) lock.png
+(Loaded) stroke.png
+(Loaded) trans.png
+(Loaded) white.png
+(Loaded) ball_b.png
+(Loaded) ball_w.png
+(Loaded) ball3_w.png
+(Loaded) ball3_b.png
+(Loaded) ball4_w.png
+(Loaded) ball4_b.png
+(Loaded) ball5_w.png
+(Loaded) ball5_b.png
+(Loaded) ball6_w.png
+(Loaded) ball6_b.png
+(Loaded) ball7_w.png
+(Loaded) ball7_b.png
+(Loaded) block_w.png
+(Loaded) block_b.png
+(Loaded) transition.png
+(Loaded) block_b_p.png
+(Loaded) block_bl_p.png
+(Loaded) particle.png
+(Loaded) 1.wav
+ball_w
+tray_none
+(Loaded) block.png

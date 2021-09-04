@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <SceneProperties lightIntensity="2" parallaxIntensity="0">
+        <Ambient r="1" g="1" b="1" />
+        <ZAxisDirection x="0" y="-1" />
+    </SceneProperties>
+    <EntitiesInScene>
+        <Entity id="1" spriteFrame="0">
+            <EntityName>background10.ent</EntityName>
+            <Position x="512" y="384" z="0" angle="0" />
+            <Entity>
+                <FileName>background10.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="14" spriteFrame="0">
+            <EntityName>shoterL.ent</EntityName>
+            <Position x="974" y="450" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterL.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="15" spriteFrame="0">
+            <EntityName>shoterL.ent</EntityName>
+            <Position x="974" y="350" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterL.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="16" spriteFrame="0">
+            <EntityName>shoterL.ent</EntityName>
+            <Position x="974" y="250" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterL.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="17" spriteFrame="0">
+            <EntityName>shoterL.ent</EntityName>
+            <Position x="974" y="150" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterL.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="10" spriteFrame="0">
+            <EntityName>shoterR.ent</EntityName>
+            <Position x="50" y="550" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterR.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="11" spriteFrame="0">
+            <EntityName>shoterR.ent</EntityName>
+            <Position x="50" y="650" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterR.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="12" spriteFrame="0">
+            <EntityName>shoterL.ent</EntityName>
+            <Position x="974" y="650" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterL.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="13" spriteFrame="0">
+            <EntityName>shoterL.ent</EntityName>
+            <Position x="974" y="550" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterL.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2" spriteFrame="0">
+            <EntityName>spaceship.ent</EntityName>
+            <Position x="247" y="375" z="0" angle="0" />
+            <Entity>
+                <FileName>spaceship.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="6" spriteFrame="0">
+            <EntityName>shoterR.ent</EntityName>
+            <Position x="50" y="150" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterR.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="7" spriteFrame="0">
+            <EntityName>shoterR.ent</EntityName>
+            <Position x="50" y="250" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterR.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="8" spriteFrame="0">
+            <EntityName>shoterR.ent</EntityName>
+            <Position x="50" y="350" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterR.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="9" spriteFrame="0">
+            <EntityName>shoterR.ent</EntityName>
+            <Position x="50" y="450" z="0" angle="0" />
+            <Entity>
+                <FileName>shoterR.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+    </EntitiesInScene>
+</Ethanon>

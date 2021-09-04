@@ -1,0 +1,5 @@
+[C:\Users\KTA\Desktop\Portofolio\res\Hex Runner\Windows & OSX\_error.log.txt]
+Couldn't find the entity to delete: ID271
+Couldn't find the entity to delete: ID274
+Couldn't find the entity to delete: ID467
+Couldn't find the entity to delete: ID470

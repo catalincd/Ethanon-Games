@@ -1,0 +1,5 @@
+[C:\Users\KTA\Desktop\OLD DESKTOP\DESKTOP\Social Life\_error.log.txt]
+
+[ERROR] src/MainMenuScene.angelscript, line 52: 'getBias' is not a member of 'InterpolationTimer'
+ERROR - Failed while building module.
+ERROR - ETHEngine::StartEngine: no scene has been loaded.

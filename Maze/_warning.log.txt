@@ -1,0 +1,4 @@
+[C:\Users\KTA\Desktop\Hex Maze\_warning.log.txt]
+
+[WARN ] MazeGenerator.angelscript, line 203: Signed/Unsigned mismatch
+[WARN ] MazeGenerator.angelscript, line 203: Signed/Unsigned mismatch

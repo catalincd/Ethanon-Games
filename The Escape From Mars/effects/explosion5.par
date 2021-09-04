@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <ParticleSystem particles="1" allAtOnce="0" alphaMode="1" repeat="1" animationMode="1" boundingSphere="512" lifeTime="1400" randomLifeTime="0" angleDir="1" randAngle="0" size="0.5" randomizeSize="0" growth="1.2" minSize="0" maxSize="1000" angleStart="0" randAngleStart="0">
+        <Bitmap>RPG_Maker_Animation_7_by_undergroundjin.png</Bitmap>
+        <Gravity x="0" y="0" />
+        <Direction x="0" y="0" />
+        <RandomizeDir x="0" y="0" />
+        <SpriteCut x="5" y="6" />
+        <StartPoint x="0" y="0" z="0" />
+        <RandStartPoint x="0" y="0" />
+        <Color0 r="1" g="1" b="1" a="1" />
+        <Color1 r="1" g="1" b="1" a="0" />
+        <Luminance r="1" g="1" b="1" />
+    </ParticleSystem>
+</Ethanon>

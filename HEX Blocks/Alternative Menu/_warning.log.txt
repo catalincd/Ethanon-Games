@@ -1,0 +1,3 @@
+[C:\Users\KTA\Desktop\Social Life\_warning.log.txt]
+
+[WARN ] src/TouchManager.angelscript, line 72: Implicit conversion changed sign of value

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="0" applyLight="0" castShadow="0" type="5" layerDepth="0.8" static="0" blendMode="0">
+        <PivotAdjust x="35" y="35" />
+        <Sprite>transition.png</Sprite>
+        <Particles />
+        <CustomData />
+    </Entity>
+</Ethanon>

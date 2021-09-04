@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <SceneProperties lightIntensity="2" parallaxIntensity="0">
+        <Ambient r="1" g="1" b="1" />
+        <ZAxisDirection x="0" y="-1" />
+    </SceneProperties>
+    <EntitiesInScene>
+        <Entity id="27" spriteFrame="0">
+            <EntityName>missile44.ent</EntityName>
+            <Position x="1136" y="451" z="0" angle="0" />
+            <Entity>
+                <FileName>missile44.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="29" spriteFrame="0">
+            <EntityName>missile44.ent</EntityName>
+            <Position x="1136" y="351" z="0" angle="180" />
+            <Entity>
+                <FileName>missile44.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="17" spriteFrame="0">
+            <EntityName>loading8.ent</EntityName>
+            <Position x="0" y="-6" z="0" angle="0" />
+            <Entity>
+                <FileName>loading8.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="1" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="35" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="105" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="4" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="245" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="5" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="175" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="6" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="315" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="7" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="385" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="8" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="455" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="9" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="525" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="10" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="595" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="11" spriteFrame="0">
+            <EntityName>pamant.ent</EntityName>
+            <Position x="665" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>pamant.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="21" spriteFrame="0">
+            <EntityName>frecare0.ent</EntityName>
+            <Position x="875" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>frecare0.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="22" spriteFrame="0">
+            <EntityName>frecare0.ent</EntityName>
+            <Position x="945" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>frecare0.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="23" spriteFrame="0">
+            <EntityName>frecare0.ent</EntityName>
+            <Position x="1015" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>frecare0.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="30" spriteFrame="0">
+            <EntityName>frecare0.ent</EntityName>
+            <Position x="765" y="586" z="0" angle="0" />
+            <Entity>
+                <FileName>frecare0.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="31" spriteFrame="0">
+            <EntityName>frecare0.ent</EntityName>
+            <Position x="833" y="586" z="0" angle="0" />
+            <Entity>
+                <FileName>frecare0.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="32" spriteFrame="0">
+            <EntityName>frecare0.ent</EntityName>
+            <Position x="695" y="586" z="0" angle="0" />
+            <Entity>
+                <FileName>frecare0.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="33" spriteFrame="0">
+            <EntityName>tepi.ent</EntityName>
+            <Position x="734" y="539" z="0" angle="0" />
+            <Entity>
+                <FileName>tepi.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="34" spriteFrame="0">
+            <EntityName>tepi.ent</EntityName>
+            <Position x="804" y="541" z="0" angle="0" />
+            <Entity>
+                <FileName>tepi.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="24" spriteFrame="0">
+            <EntityName>frecare0.ent</EntityName>
+            <Position x="1085" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>frecare0.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="25" spriteFrame="0">
+            <EntityName>frecare0.ent</EntityName>
+            <Position x="1155" y="525" z="0" angle="0" />
+            <Entity>
+                <FileName>frecare0.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="12" spriteFrame="0" shadowZ="0">
+            <EntityName>player.ent</EntityName>
+            <Position x="87" y="475" z="0" angle="0" />
+            <Entity>
+                <FileName>player.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="13" spriteFrame="0">
+            <EntityName>nave.ent</EntityName>
+            <Position x="40" y="458" z="0" angle="0" />
+            <Entity>
+                <FileName>nave.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="14" spriteFrame="0">
+            <EntityName>caracter4.ent</EntityName>
+            <Position x="194" y="444" z="0" angle="0" />
+            <Entity>
+                <FileName>caracter4.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="15" spriteFrame="0">
+            <EntityName>caracter4.ent</EntityName>
+            <Position x="282" y="445" z="0" angle="0" />
+            <Entity>
+                <FileName>caracter4.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="16" spriteFrame="0">
+            <EntityName>caracter4.ent</EntityName>
+            <Position x="362" y="445" z="0" angle="0" />
+            <Entity>
+                <FileName>caracter4.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="18" spriteFrame="0">
+            <EntityName>tepi.ent</EntityName>
+            <Position x="442" y="479" z="0" angle="0" />
+            <Entity>
+                <FileName>tepi.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+    </EntitiesInScene>
+</Ethanon>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="1" sensor="1" bullet="0" fixedRotation="1" friction="1" density="1" restitution="0" gravityScale="1" applyLight="0" castShadow="0" type="5" layerDepth="0.5" static="0" blendMode="0">
+        <PivotAdjust x="0" y="-25" />
+        <Sprite>enemy8.png</Sprite>
+        <Particles />
+        <Collision>
+            <Position x="0" y="0" z="0" />
+            <Size x="132" y="140" z="1" />
+        </Collision>
+        <CustomData>
+            <Variable>
+                <Type>int</Type>
+                <Name>bulletPoints</Name>
+                <Value>4</Value>
+            </Variable>
+            <Variable>
+                <Type>float</Type>
+                <Name>bulletScale</Name>
+                <Value>1</Value>
+            </Variable>
+            <Variable>
+                <Type>int</Type>
+                <Name>damage</Name>
+                <Value>50</Value>
+            </Variable>
+            <Variable>
+                <Type>uint</Type>
+                <Name>enemy</Name>
+                <Value>1</Value>
+            </Variable>
+            <Variable>
+                <Type>int</Type>
+                <Name>hp</Name>
+                <Value>75</Value>
+            </Variable>
+            <Variable>
+                <Type>int</Type>
+                <Name>hpMax</Name>
+                <Value>75</Value>
+            </Variable>
+            <Variable>
+                <Type>float</Type>
+                <Name>hpScale</Name>
+                <Value>0.8</Value>
+            </Variable>
+            <Variable>
+                <Type>float</Type>
+                <Name>radius</Name>
+                <Value>116</Value>
+            </Variable>
+            <Variable>
+                <Type>float</Type>
+                <Name>speed</Name>
+                <Value>150</Value>
+            </Variable>
+            <Variable>
+                <Type>uint</Type>
+                <Name>stride</Name>
+                <Value>650</Value>
+            </Variable>
+        </CustomData>
+    </Entity>
+</Ethanon>

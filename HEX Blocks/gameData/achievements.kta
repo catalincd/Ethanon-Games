@@ -1,0 +1,162 @@
+ACH0
+{
+	AQ = TRUE;
+	ARG = ball;
+	DATE = 19/7|2018;
+	NAME = DEFAULT;
+	NEW = FALSE;
+	PATH = entities/ball;
+	TYPE = 1;
+	XPREQ = 0;
+}
+
+ACH1
+{
+	AQ = TRUE;
+	ARG = ball3;
+	DATE = 19/7|2018;
+	NAME = CHECKBOARD;
+	NEW = FALSE;
+	PATH = entities/ball3;
+	TYPE = 1;
+	XPREQ = 5000;
+}
+
+ACH10
+{
+	AQ = TRUE;
+	ARG = 1;
+	DATE = 19/7|2018;
+	NAME = RAINBOW;
+	NEW = FALSE;
+	PATH = sprites/rainbow;
+	TYPE = 4;
+	XPREQ = 1000;
+}
+
+ACH11
+{
+	AQ = TRUE;
+	ARG = 0;
+	DATE = 19/7|2018;
+	NAME = DEFAULT;
+	NEW = FALSE;
+	PATH = entities/ball;
+	TYPE = 4;
+	XPREQ = 1000;
+}
+
+ACH2
+{
+	AQ = TRUE;
+	ARG = ball4;
+	DATE = 19/7|2018;
+	NAME = DOT;
+	NEW = FALSE;
+	PATH = entities/ball4;
+	TYPE = 1;
+	XPREQ = 5000;
+}
+
+ACH3
+{
+	AQ = TRUE;
+	ARG = ball5;
+	DATE = 19/7|2018;
+	NAME = CROSS;
+	NEW = FALSE;
+	PATH = entities/ball5;
+	TYPE = 1;
+	XPREQ = 10000;
+}
+
+ACH4
+{
+	AQ = TRUE;
+	ARG = ball7;
+	DATE = 19/7|2018;
+	NAME = SQUARE;
+	NEW = FALSE;
+	PATH = entities/ball7;
+	TYPE = 1;
+	XPREQ = 1200;
+}
+
+ACH5
+{
+	AQ = TRUE;
+	ARG = ball7;
+	DATE = 19/7|2018;
+	NAME = BALL 1;
+	NEW = FALSE;
+	PATH = entities/ball7;
+	TYPE = 1;
+	XPREQ = 1000;
+}
+
+ACH6
+{
+	AQ = TRUE;
+	ARG = ball2;
+	DATE = 19/7|2018;
+	NAME = HYPNOTIC;
+	NEW = FALSE;
+	PATH = entities/ball2;
+	TYPE = 1;
+	XPREQ = 1000;
+}
+
+ACH7
+{
+	AQ = TRUE;
+	ARG = ball8;
+	DATE = 19/7|2018;
+	NAME = RADIOACTIVE;
+	NEW = FALSE;
+	PATH = entities/ball8;
+	TYPE = 1;
+	XPREQ = 1000;
+}
+
+ACH8
+{
+	AQ = TRUE;
+	ARG = 2;
+	DATE = 19/7|2018;
+	NAME = ROTATE RIGHT;
+	NEW = FALSE;
+	PATH = entities/ball;
+	TYPE = 5;
+	XPREQ = 1000;
+}
+
+ACH9
+{
+	AQ = TRUE;
+	ARG = 3;
+	DATE = 19/7|2018;
+	NAME = ROTATE LEFT;
+	NEW = FALSE;
+	PATH = entities/ball;
+	TYPE = 5;
+	XPREQ = 1000;
+}
+
+ACH12
+{
+	AQ = TRUE;
+	ARG = 1;
+	DATE = 19/7|2018;
+	NAME = DEFAULT;
+	NEW = FALSE;
+	PATH = entities/ball;
+	TYPE = 5;
+	XPREQ = 1000;
+}
+
+DATA
+{
+	LAST = 13;
+	NUM = 13;
+}
+

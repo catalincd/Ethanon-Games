@@ -1,0 +1,953 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <SceneProperties lightIntensity="2" parallaxIntensity="1.3">
+        <Ambient r="1" g="1" b="1" />
+        <ZAxisDirection x="0" y="0" />
+    </SceneProperties>
+    <EntitiesInScene>
+        <Entity id="177" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="178" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="179" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="118" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="119" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="120" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="125" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="126" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="127" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="382" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="512" y="32" z="0" angle="0" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2285" spriteFrame="0">
+            <EntityName>spaceship.ent</EntityName>
+            <Position x="512" y="384" z="0" angle="0" />
+            <Entity>
+                <FileName>spaceship.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="154" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="155" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="156" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="185" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-1067" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="186" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-1261" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="187" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-1455" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="109" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-1455" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="110" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-1261" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="111" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-1067" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="133" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-1067" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="134" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-1261" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="135" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-1455" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="1974" spriteFrame="0">
+            <EntityName>urmaritor.ent</EntityName>
+            <Position x="821" y="-1339" z="0" angle="120" />
+            <Entity>
+                <FileName>urmaritor.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="162" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-1067" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="163" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-1261" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="164" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-1455" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="12" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="256" y="-128" z="0" angle="0" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="17" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="384" y="-32" z="0" angle="0" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="83" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="94" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="95" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="96" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="108" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="298" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="385" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="384" y="-256" z="0" angle="-30" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="11" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="215" y="-26" z="0" angle="0" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="136" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-1649" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="137" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-1649" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="142" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-1843" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="143" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-1843" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="144" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-2037" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="145" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-2037" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="97" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="98" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="105" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="106" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="989" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="346" y="-807" z="0" angle="55" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="991" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="193" y="-949" z="0" angle="65" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="996" spriteFrame="0">
+            <EntityName>enemy1.ent</EntityName>
+            <Position x="496.5" y="-684" z="0" angle="180" />
+            <Entity>
+                <FileName>enemy1.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2391" spriteFrame="0">
+            <EntityName>drone1p1.ent</EntityName>
+            <Position x="130" y="-530" z="0" angle="0" />
+            <Entity>
+                <FileName>drone1p1.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2392" spriteFrame="0">
+            <EntityName>drone1p2.ent</EntityName>
+            <Position x="131" y="-532" z="0" angle="0" />
+            <Entity>
+                <FileName>drone1p2.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="87" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="88" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="89" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="90" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="150" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-2231" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="151" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-2231" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="99" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-1067" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="100" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-1261" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="101" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="-1455" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="102" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-1455" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="103" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-1261" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="104" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="-1067" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="175" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="176" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="188" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-1649" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="189" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-1843" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="190" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-2037" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="183" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="184" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="180" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="182" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="1425" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="112" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="113" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="131" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="132" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="990" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="568" y="-905" z="0" angle="-40" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="992" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="752" y="-913" z="0" angle="-5" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="138" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-1649" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="139" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-1649" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="140" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-1843" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="141" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-1843" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="146" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-2037" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="147" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-2037" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2459" spriteFrame="0">
+            <EntityName>coll_wall.ent</EntityName>
+            <Position x="512" y="-2006" z="0" angle="0" />
+            <Entity>
+                <FileName>coll_wall.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="114" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="115" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="116" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="128" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="129" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="130" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="165" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-1649" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="166" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-1843" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="167" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-2037" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="160" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="161" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="157" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="158" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="159" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="121" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="122" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="123" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="124" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="152" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="873" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="153" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="679" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="84" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="86" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="91" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="485" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="92" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="377" spriteFrame="0">
+            <EntityName>asteroide.ent</EntityName>
+            <Position x="298" y="121" z="0" angle="0" />
+            <Entity>
+                <FileName>asteroide.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="864" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="129.5" y="291" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="1173" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="387.5" y="97" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="191" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="-129.5" y="-2231" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="148" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="903.5" y="-2231" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="149" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="645.5" y="-2231" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="168" spriteFrame="0">
+            <EntityName>lol.ent</EntityName>
+            <Position x="1161.5" y="-2231" z="-120" angle="0" />
+            <Entity>
+                <FileName>lol.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+    </EntitiesInScene>
+</Ethanon>

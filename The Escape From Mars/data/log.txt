@@ -1,0 +1,21 @@
+acgfx_graphics.|  274|Adapter description: Mobile Intel(R) 945 Express Chipset Family
+acgfx_graphics.|  275|Driver: igdumd32.dll
+acgfx_graphics.|  276|Version: 8.15.10.1867
+acgfx_graphics.|  288|Checking graphics capabilities...
+acgfx_graphics.|  291|Blending with source alpha              : Yes
+acgfx_graphics.|  292|Blending with inverse source alpha      : Yes
+acgfx_graphics.|  293|Textures with alpha channel             : Yes
+acgfx_graphics.|  296|Max texture width                       : 2048
+acgfx_graphics.|  297|Max texture height                      : 2048
+acgfx_graphics.|  304|Dynamic textures                        : Yes
+acgfx_graphics.|  307|Vertex shader version                   : 0
+acgfx_graphics.|  308|Pixel shader version                    : 200
+acgfx_graphics.|  311|Number of simultaneous RTs              : 1
+acgfx_graphics.|  342|Available render target format: A2R10G10B10
+acgfx_graphics.|  342|Available render target format: A8R8G8B8
+acgfx_graphics.|  342|Available render target format: X8R8G8B8
+acgfx_graphics.|  216|Failed to create Direct3D device with hardware vertex processing (8876086C), trying software processing
+acgfx_graphics.|  633|Effect file 'data/font.fx' failed to compile (0x88760B59)
+acgfx_font.cpp |  135|Failed to load 'data/font.fx' (-1)
+application.cpp|   38|Failed to initialize font 'data/arial24.fnt' (-1)
+acframe_applica|  160|Application specific init failed (-1)

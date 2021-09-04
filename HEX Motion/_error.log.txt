@@ -1,0 +1,5 @@
+[C:\Users\KTA\Desktop\social life\_error.log.txt]
+
+[ERROR] GameScene.angelscript, line 151: No matching signatures to 'delete()'
+ERROR - Failed while building module.
+ERROR - ETHEngine::StartEngine: no scene has been loaded.

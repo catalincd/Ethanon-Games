@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="2" sensor="0" bullet="0" fixedRotation="0" friction="1" density="1" restitution="0" gravityScale="1" applyLight="1" specularPower="50" specularBrightness="1" castShadow="1" shadowScale="0" shadowLengthScale="1" shadowOpacity="0.7" type="5" layerDepth="0" static="1" blendMode="0">
+        <SpriteCut x="4" y="4" />
+        <Sprite>asteroid5vb.png</Sprite>
+        <Normal>planeta2_nm.png</Normal>
+        <Particles />
+        <CustomData />
+    </Entity>
+</Ethanon>

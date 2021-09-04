@@ -1,0 +1,13 @@
+default
+{
+	title = The Escape From Mars;
+	richLighting = true;
+}
+
+windows
+{
+	width = best;
+	height = best;
+	windowed = true;
+	vsync = true;
+}

@@ -1,0 +1,23 @@
+data
+{
+	idx = 0;
+	diff = 0;
+	height = 3;
+	len = 4;
+	point = 1;
+	color = 2;
+}
+
+entities
+{
+	entity0 = (185,-70,0,5);
+	entity1 = (465,-70,0,5);
+	entity2 = (745,-70,0,5);
+	entity3 = (1025,-70,0,5);
+	
+}
+
+points
+{
+	point0 = (605,0);
+}

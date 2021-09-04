@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="1" sensor="0" bullet="0" fixedRotation="1" friction="1" density="1" restitution="0" gravityScale="1" applyLight="0" castShadow="0" type="5" layerDepth="0.5" static="0" blendMode="0">
+        <Sprite>block_b.png</Sprite>
+        <Particles />
+        <Collision>
+            <Position x="0" y="0" z="0" />
+            <Size x="70" y="70" z="1" />
+        </Collision>
+        <CustomData>
+            <Variable>
+                <Type>uint</Type>
+                <Name>block</Name>
+                <Value>1</Value>
+            </Variable>
+        </CustomData>
+    </Entity>
+</Ethanon>

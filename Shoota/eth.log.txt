@@ -1,0 +1,128 @@
+[C:\Users\KTA\Desktop\Portofolio\res\Shoota\Shoota\eth.log.txt]
+Backbuffer created as 480, 720 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+
+Compile time: 141 milliseconds
+(Loaded) turret1_spr.png
+(Loaded) turret2_spr.png
+(Loaded) turret3_spr.png
+(Loaded) turret4_spr.png
+(Loaded) turret5_spr.png
+(Loaded) auto_turret1_spr.png
+(Loaded) auto_turret2_spr.png
+(Loaded) auto_turret3_spr.png
+(Loaded) auto_turret4_spr.png
+(Loaded) auto_turret5_spr.png
+(Loaded) auto_turret6_spr.png
+(Loaded) auto_turret7_spr.png
+(Loaded) defensive1_spr.png
+(Loaded) defensive2_spr.png
+(Loaded) defensive3_spr.png
+(Loaded) window.png
+(Loaded) buy.png
+(Loaded) stroke.png
+(Loaded) stroke_item.png
+(Loaded) block_fill.png
+(Loaded) square.png
+(Loaded) sound_off.png
+(Loaded) sound_on.png
+(Loaded) gradient.png
+(Loaded) bullet_spr.png
+(Loaded) gauge_pin.png
+(Loaded) gauge_back.png
+(Loaded) gauge_back_glow.png
+(Loaded) bill.png
+(Loaded) base.png
+(Loaded) turret1.png
+(Loaded) turret2.png
+(Loaded) turret3.png
+(Loaded) turret4.png
+(Loaded) turret5.png
+(Loaded) turret6.png
+(Loaded) enemy1.png
+(Loaded) enemy2.png
+(Loaded) enemy4.png
+(Loaded) enemy5.png
+(Loaded) enemy6.png
+(Loaded) enemy7.png
+(Loaded) enemy8.png
+(Loaded) enemy9.png
+(Loaded) enemy10.png
+(Loaded) enemy11.png
+(Loaded) bulletEnemy.png
+(Loaded) bullet.png
+(Loaded) base2.png
+(Loaded) base3.png
+(Loaded) base4.png
+(Loaded) base5.png
+(Loaded) auto_turret1.png
+(Loaded) auto_turret3.png
+(Loaded) auto_turret4.png
+(Loaded) auto_turret5.png
+(Loaded) auto_turret6.png
+(Loaded) auto_turret7.png
+(Loaded) auto_base3.png
+(Loaded) auto_base2.png
+(Loaded) auto_base4.png
+(Loaded) auto_base5.png
+(Loaded) auto_base6.png
+(Loaded) auto_base7.png
+(Loaded) wavering.png
+(Loaded) exp2.jpg
+(Loaded) x4.png
+(Loaded) muzzleFlash0.png
+(Loaded) tunelring.png
+(Loaded) nova.png
+(Loaded) rank1.png
+(Loaded) rank2.png
+(Loaded) rank3.png
+(Loaded) rank4.png
+(Loaded) rank5.png
+(Loaded) rank6.png
+(Loaded) rank7.png
+(Loaded) rank8.png
+(Loaded) rank9.png
+(Loaded) rank10.png
+(Loaded) rank11.png
+(Loaded) rank12.png
+(Loaded) rank13.png
+(Loaded) rank14.png
+(Loaded) rank15.png
+(Loaded) shoot1.mp3
+(Loaded) shoot2.mp3
+(Loaded) shot1.wav
+(Loaded) shot2.wav
+(Loaded) shot3.wav
+(Loaded) shot4.wav
+(Loaded) shot5.wav
+(Loaded) shot6.wav
+(Loaded) shot7.wav
+(Loaded) cannon_03.ogg
+(Loaded) explosion.mp3
+(Loaded) select.wav
+(Loaded) deselect.wav
+3058385
+LOAD TIME: 2094
+(Loaded) map_circuit.png
+(Loaded) auto_base1_map.png
+Exception: Index out of bounds
+  Callstack:
+    void TurretManager::update() (TurretManager.angelscript, 82)
+    void GameScene::onUpdate() (GameScene.angelscript, 55)
+    void SceneManager::runOnSceneUpdateFunction() (SceneManager.angelscript, 123)
+    void onSceneUpdate() (SceneManager.angelscript, 146)
+
+
+Exception: Index out of bounds
+  Callstack:
+    void TurretManager::update() (TurretManager.angelscript, 82)
+    void GameScene::onUpdate() (GameScene.angelscript, 55)
+    void SceneManager::runOnSceneUpdateFunction() (SceneManager.angelscript, 123)
+    void onSceneUpdate() (SceneManager.angelscript, 146)
+
+
+(Loaded) defensive2.png
+(Loaded) defensive3.png

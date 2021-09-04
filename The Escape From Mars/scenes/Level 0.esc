@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <SceneProperties lightIntensity="2" parallaxIntensity="0">
+        <Ambient r="1" g="1" b="1" />
+        <ZAxisDirection x="0" y="0" />
+    </SceneProperties>
+    <EntitiesInScene>
+        <Entity id="5" spriteFrame="0">
+            <EntityName>spaceship.ent</EntityName>
+            <Position x="504.166" y="32.8762" z="0" angle="-84.6204" />
+            <Entity>
+                <FileName>spaceship.ent</FileName>
+                <CustomData>
+                    <Variable>
+                        <Type>vector2</Type>
+                        <Name>direction</Name>
+                        <Value x="0.995595" y="-0.0937539" />
+                    </Variable>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>hp</Name>
+                        <Value>100</Value>
+                    </Variable>
+                </CustomData>
+            </Entity>
+        </Entity>
+        <Entity id="47" spriteFrame="0">
+            <EntityName>urmaritor.ent</EntityName>
+            <Position x="310.172" y="255.753" z="0" angle="309" />
+            <Entity>
+                <FileName>urmaritor.ent</FileName>
+                <CustomData>
+                    <Variable>
+                        <Type>vector2</Type>
+                        <Name>dir</Name>
+                        <Value x="-0.654953" y="0.755669" />
+                    </Variable>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>hp</Name>
+                        <Value>30</Value>
+                    </Variable>
+                    <Variable>
+                        <Type>vector2</Type>
+                        <Name>pos</Name>
+                        <Value x="504.166" y="32.8762" />
+                    </Variable>
+                </CustomData>
+            </Entity>
+        </Entity>
+        <Entity id="105" spriteFrame="0">
+            <EntityName>missilex.ent</EntityName>
+            <Position x="420.993" y="166.012" z="0" angle="-51" />
+            <Entity>
+                <FileName>missilex.ent</FileName>
+                <CustomData>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>damage</Name>
+                        <Value>-10</Value>
+                    </Variable>
+                    <Variable>
+                        <Type>vector2</Type>
+                        <Name>direction</Name>
+                        <Value x="0.777146" y="-0.62932" />
+                    </Variable>
+                </CustomData>
+            </Entity>
+        </Entity>
+        <Entity id="50" spriteFrame="0">
+            <EntityName>urmaritor.ent</EntityName>
+            <Position x="525.409" y="215.277" z="0" angle="357" />
+            <Entity>
+                <FileName>urmaritor.ent</FileName>
+                <CustomData>
+                    <Variable>
+                        <Type>vector2</Type>
+                        <Name>dir</Name>
+                        <Value x="0.85233" y="0.523005" />
+                    </Variable>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>hp</Name>
+                        <Value>30</Value>
+                    </Variable>
+                    <Variable>
+                        <Type>vector2</Type>
+                        <Name>pos</Name>
+                        <Value x="504.166" y="32.8762" />
+                    </Variable>
+                </CustomData>
+            </Entity>
+        </Entity>
+        <Entity id="48" spriteFrame="0">
+            <EntityName>base2.ent</EntityName>
+            <Position x="663.8" y="150" z="0" angle="0" />
+            <Entity>
+                <FileName>base2.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="49" spriteFrame="0">
+            <EntityName>base2t.ent</EntityName>
+            <Position x="663.8" y="150" z="0" angle="494" />
+            <Entity>
+                <FileName>base2t.ent</FileName>
+                <CustomData>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>hp</Name>
+                        <Value>50</Value>
+                    </Variable>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>lastfire</Name>
+                        <Value>31357</Value>
+                    </Variable>
+                </CustomData>
+            </Entity>
+        </Entity>
+        <Entity id="55" spriteFrame="0">
+            <EntityName>enemy6.ent</EntityName>
+            <Position x="14036.1" y="-14344.9" z="0" angle="136.736" />
+            <Entity>
+                <FileName>enemy6.ent</FileName>
+                <CustomData>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>hp</Name>
+                        <Value>50</Value>
+                    </Variable>
+                </CustomData>
+            </Entity>
+        </Entity>
+        <Entity id="46" spriteFrame="0">
+            <EntityName>urmaritor.ent</EntityName>
+            <Position x="352.96" y="287.126" z="0" angle="319" />
+            <Entity>
+                <FileName>urmaritor.ent</FileName>
+                <CustomData>
+                    <Variable>
+                        <Type>vector2</Type>
+                        <Name>dir</Name>
+                        <Value x="-0.507872" y="0.861432" />
+                    </Variable>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>hp</Name>
+                        <Value>30</Value>
+                    </Variable>
+                    <Variable>
+                        <Type>vector2</Type>
+                        <Name>pos</Name>
+                        <Value x="504.166" y="32.8762" />
+                    </Variable>
+                </CustomData>
+            </Entity>
+        </Entity>
+        <Entity id="2" spriteFrame="0">
+            <EntityName>background9.ent</EntityName>
+            <Position x="512" y="384" z="0" angle="0" />
+            <Entity>
+                <FileName>background9.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+    </EntitiesInScene>
+</Ethanon>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="0" applyLight="0" castShadow="0" type="5" layerDepth="0" static="1" blendMode="1">
+        <SpriteCut x="4" y="4" />
+        <Sprite>image_sequence_2x.png</Sprite>
+        <Particles />
+        <CustomData />
+    </Entity>
+</Ethanon>

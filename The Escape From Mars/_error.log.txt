@@ -1,0 +1,5 @@
+[C:\Users\zzz\Desktop\Ethanon Projects\The Escape From Mars\_error.log.txt]
+
+[ERROR] CallBacks.angelscript, line 81: Expected ';'
+ERROR - Failed while building module.
+ERROR - ETHEngine::StartEngine: no scene has been loaded.

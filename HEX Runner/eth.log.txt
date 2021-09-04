@@ -1,0 +1,64 @@
+[C:\Users\Wizard\Desktop\Portofolio\res\Hex Runner\Windows & OSX\eth.log.txt]
+Backbuffer created as 480, 720 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+
+Compile time: 187 milliseconds
+(Loaded) block_64.png
+(Loaded) arrow_down.png
+(Loaded) body6.png
+(Loaded) eyes.png
+(Loaded) block_dead.png
+(Loaded) eyes_contour.png
+(Loaded) blink.png
+(Loaded) block_spr.png
+(Loaded) pause.png
+(Loaded) notification.png
+(Loaded) trail.png
+(Loaded) broken.png
+(Loaded) merlin.png
+(Loaded) stripe.png
+(Loaded) sas.png
+(Loaded) soundcloud.png
+(Loaded) 69420.png
+(Loaded) article13.png
+(Loaded) narutoRunner.png
+(Loaded) love.png
+(Loaded) greatAmerica.png
+(Loaded) block_64.png
+(Loaded) arrow_down.png
+(Loaded) body6.png
+(Loaded) eyes.png
+(Loaded) block_dead.png
+(Loaded) eyes_contour.png
+(Loaded) blink.png
+(Loaded) block_spr.png
+(Loaded) pause.png
+(Loaded) notification.png
+(Loaded) trail.png
+(Loaded) broken.png
+(Loaded) merlin.png
+(Loaded) stripe.png
+(Loaded) sas.png
+(Loaded) soundcloud.png
+(Loaded) 69420.png
+(Loaded) article13.png
+(Loaded) narutoRunner.png
+(Loaded) love.png
+(Loaded) greatAmerica.png
+(Loaded) slide.wav
+(Loaded) explodemax.wav
+(Loaded) foom2.wav
+(Loaded) square.png
+(Loaded) overlay_bottom.png
+(Loaded) overlay_top.png
+(Loaded) contour.png
+(Loaded) trigon.png
+(Loaded) block_b_p.png
+(Loaded) dead.png
+(Loaded) geometry.png
+(Loaded) line.png
+(Loaded) gradient.png
+(Loaded) x3.png

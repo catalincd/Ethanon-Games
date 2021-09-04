@@ -1,0 +1,2 @@
+[C:\Users\KTA\Desktop\work cunt - Copy\_warning.log.txt]
+[WARN ] ScoreManager.angelscript, line 31: Signed/Unsigned mismatch

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="0" applyLight="0" castShadow="0" type="5" layerDepth="0.2" static="1" blendMode="0">
+        <PivotAdjust x="-210" y="0" />
+        <Sprite>loader2.png</Sprite>
+        <Particles />
+        <CustomData />
+    </Entity>
+</Ethanon>

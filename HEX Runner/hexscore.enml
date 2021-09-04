@@ -1,0 +1,9 @@
+data
+{
+	coins = 1208;
+	games = 89;
+	highScore = 625613;
+	scoreAvg = 94604;
+	scoreCount = 94;
+}
+

@@ -1,0 +1,20 @@
+default
+{
+	title = Motion;
+	richLighting = true;
+}
+
+windows
+{
+	width = 1280;
+	height = 720;
+	windowed = true;
+	vsync = true;
+}
+
+android
+{
+	width = best;
+	height = best;
+}
+

@@ -1,0 +1,16 @@
+[C:\Users\KTA\Desktop\Portofolio\res\Motion\Windows & OSX\eth.log.txt]
+Backbuffer created as 1280, 720 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+
+Compile time: 46 milliseconds
+(Loaded) block_b.png
+(Loaded) default_nm.png
+(Loaded) battery.png
+(Loaded) charging.png
+(Loaded) level.png
+(Loaded) arrows.png
+(Loaded) block_halo.png
+(Loaded) block_particle.png

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="1" sensor="0" bullet="0" fixedRotation="0" friction="1" density="1" restitution="0" gravityScale="1" applyLight="1" specularPower="50" specularBrightness="1" castShadow="0" type="5" layerDepth="0.1" static="0" blendMode="0">
+        <Sprite>racheta2.png</Sprite>
+        <Normal>default_nm.png</Normal>
+        <Particles>
+            <ParticleSystem particles="50" allAtOnce="0" alphaMode="0" repeat="0" animationMode="1" boundingSphere="512" lifeTime="100" randomLifeTime="350" angleDir="0" randAngle="0" size="8" randomizeSize="0" growth="1.5" minSize="0" maxSize="100" angleStart="0" randAngleStart="0">
+                <Bitmap>particle.png</Bitmap>
+                <Gravity x="0" y="0.01" />
+                <Direction x="0" y="0.5" />
+                <RandomizeDir x="1.5" y="0.2" />
+                <SpriteCut x="1" y="1" />
+                <StartPoint x="0" y="29" z="0" />
+                <RandStartPoint x="0" y="0" />
+                <Color0 r="0" g="1" b="1" a="1" />
+                <Color1 r="0" g="0.3" b="1" a="0" />
+                <Luminance r="1" g="1" b="1" />
+            </ParticleSystem>
+        </Particles>
+        <Collision>
+            <Position x="0" y="0" z="0" />
+            <Size x="20" y="65" z="1" />
+        </Collision>
+        <CustomData />
+    </Entity>
+</Ethanon>

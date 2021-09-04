@@ -1,0 +1,14 @@
+data
+{
+	id = 0;
+	len = 4;
+	current = 0;
+	name = MSAA ANTI-ALIASING*;
+}
+names
+{
+	name0 = NONE;
+	name1 = MSAA x2;
+	name2 = MSAA x4;
+	name3 = MSAA x8;
+}

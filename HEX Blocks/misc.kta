@@ -1,0 +1,19 @@
+DATA
+{
+	BEST_XP = 7557;
+	GAMES = 1;
+	TIME = 0.0372833;
+	TOTAL_XP = 7557;
+}
+
+PREF
+{
+	BACK = 0;
+	BALL = ball;
+	BLOCKS = block;
+	COLOR = 11;
+	ROTATE = 1;
+	SUFIX = _w;
+	TRAY = tray_none;
+}
+

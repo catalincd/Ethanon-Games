@@ -1,0 +1,20 @@
+data
+{
+	autos = 8;
+	inventory = 2,7,9,6,8,14,15;
+	turrets = 1,6,8,14,9,15,11,10,7,5,2;
+}
+
+progress
+{
+	exp = 30434;
+	funds = 57148;
+	rankup = false;
+}
+
+settings
+{
+	set = 20,40,0.9,0.4,0.6,2;
+	sound = false;
+}
+

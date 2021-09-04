@@ -1,0 +1,15 @@
+preferences
+{
+	ads = true;
+	sens = 3.22917;
+	touchControls = true;
+	touchFixed = true;
+	touchScale = 3;
+}
+
+progress
+{
+	casualw = 7;
+	level = 104;
+}
+

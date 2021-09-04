@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="1" sensor="0" bullet="0" fixedRotation="0" friction="1" density="1" restitution="0" gravityScale="1" applyLight="0" castShadow="0" type="5" layerDepth="0.5" static="1" blendMode="0">
+        <Sprite>block_b.png</Sprite>
+        <Particles>
+            <ParticleSystem particles="20" allAtOnce="0" alphaMode="0" repeat="0" animationMode="1" boundingSphere="512" lifeTime="350" randomLifeTime="350" angleDir="0" randAngle="0" size="70" randomizeSize="0" growth="-1.25" minSize="0" maxSize="1000" angleStart="0" randAngleStart="0">
+                <Bitmap>block_b_p.png</Bitmap>
+                <Gravity x="0" y="0" />
+                <Direction x="0" y="0" />
+                <RandomizeDir x="0" y="0" />
+                <SpriteCut x="1" y="1" />
+                <StartPoint x="0" y="0" z="0" />
+                <RandStartPoint x="0" y="0" />
+                <Color0 r="1" g="1" b="1" a="1" />
+                <Color1 r="1" g="1" b="1" a="0" />
+                <Luminance r="1" g="1" b="1" />
+            </ParticleSystem>
+        </Particles>
+        <Collision>
+            <Position x="0" y="0" z="0" />
+            <Size x="70" y="70" z="1" />
+        </Collision>
+        <CustomData>
+            <Variable>
+                <Type>uint</Type>
+                <Name>block</Name>
+                <Value>1</Value>
+            </Variable>
+        </CustomData>
+    </Entity>
+</Ethanon>

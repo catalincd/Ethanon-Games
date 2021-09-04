@@ -1,0 +1,1 @@
+class GameOverManager : GameObject{	void create()	{		//	}	void update()	{		}		void resume()	{		// GO TO MAIN SCENE	}	string getTag(){ return "GameOver";}}

@@ -1,0 +1,19 @@
+default
+{
+	title = Bamboo Jump;
+	richLighting = false;
+}
+
+windows
+{
+	width = 480;
+	height = 720;
+	windowed = true;
+	vsync = true;
+}
+
+android
+{
+	width = best;
+	height = best;
+}

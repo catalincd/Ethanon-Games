@@ -1,0 +1,13 @@
+[C:\Users\KTA\Desktop\Portofolio\res\Hex Balance\Windows & OSX\eth.log.txt]
+Backbuffer created as 480, 720 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+
+Compile time: 15 milliseconds
+(Loaded) square.png
+(Loaded) circle_128.png
+(Loaded) platform.png
+(Loaded) block_128.png
+(Loaded) white.png

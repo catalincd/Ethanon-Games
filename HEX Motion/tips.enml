@@ -1,0 +1,10 @@
+data
+{
+	num = 5;
+}
+
+tips
+{
+	tip0 = Holding your phone vertically will improve accuracy;
+	tip1 = Reducing the number of movements will help you resist more;
+}

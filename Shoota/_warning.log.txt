@@ -1,0 +1,3 @@
+[C:\Users\KTA\Desktop\Shooter\_warning.log.txt]
+
+[WARN ] Swiper.angelscript, line 49: 'ratio' is not initialized.

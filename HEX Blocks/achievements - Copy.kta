@@ -1,0 +1,58 @@
+ACH0
+{
+	AQ = false;
+	NAME = BALL 1;
+	PATH = entities/ball.png;
+	TYPE = 1;
+	XPREQ = 1000;
+}
+
+ACH1
+{
+	AQ = false;
+	DATE = x;
+	NAME = BALL 1;
+	PATH = entities/ball.png;
+	TYPE = 1;
+	XPREQ = 1000;
+}
+
+ACH2
+{
+	AQ = false;
+	DATE = x;
+	NAME = BALL 1;
+	PATH = entities/ball.png;
+	TYPE = 1;
+	XPREQ = 1000;
+}
+
+ACH3
+{
+	AQ = false;
+	DATE = x;
+	NAME = BALL 1;
+	PATH = entities/ball.png;
+	TYPE = 1;
+	XPREQ = 1000;
+}
+
+ACH4
+{
+	AQ = false;
+	DATE = x;
+	NAME = BALL 1;
+	PATH = entities/ball.png;
+	TYPE = 1;
+	XPREQ = 1000;
+}
+
+ACH5
+{
+	AQ = false;
+	DATE = x;
+	NAME = BALL 1;
+	PATH = entities/ball.png;
+	TYPE = 1;
+	XPREQ = 1000;
+}

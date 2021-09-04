@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="1" sensor="1" bullet="0" fixedRotation="1" friction="1" density="1" restitution="0" gravityScale="1" applyLight="1" specularPower="70" specularBrightness="1" castShadow="0" type="5" layerDepth="0.3" static="1" blendMode="0">
+        <Sprite>grass.png</Sprite>
+        <Normal>default_nm.png</Normal>
+        <Particles />
+        <CustomData />
+    </Entity>
+</Ethanon>

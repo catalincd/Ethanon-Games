@@ -1,0 +1,18 @@
+data
+{
+	inventory = 1,8,9,6,10,11,7;
+	turrets = 1,6,7,2;
+}
+
+progress
+{
+	exp = 2956;
+	funds = 2962;
+	rankup = false;
+}
+
+settings
+{
+	sound = false;
+}
+

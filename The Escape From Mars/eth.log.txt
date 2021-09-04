@@ -1,0 +1,46 @@
+[C:\Users\KTA\Desktop\Portofolio\res\The Escape From Mars\eth.log.txt]
+Backbuffer created as 1366, 768 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+[INFO ] Functions.angelscript, line 1: Compiling void DrawNotification(string, string, uint, uint)
+
+[WARN ] Functions.angelscript, line 8: Signed/Unsigned mismatch
+[WARN ] Functions.angelscript, line 8: Signed/Unsigned mismatch
+
+Compile time: 125 milliseconds
+(Loaded) prev-Space-Background-12.png
+(Loaded) p2a.png
+(Loaded) ship2.png
+(Loaded) lightning_0.png
+(Loaded) fighterspr1.png
+(Loaded) default_nm.png
+(Loaded) flash.bmp
+(Loaded) enemy2.png
+(Loaded) enemy3.png
+(Loaded) fire.wav
+(Loaded) railgun.mp3
+(Loaded) impact.wav
+(Loaded) explosion.mp3
+(Loaded) boostb.mp3
+(Loaded) explosion2.wav
+(Loaded) fire2.wav
+(Loaded) fire3.mp3
+(Loaded) soundtrack.mp3
+(Loaded) alienware.png
+(Loaded) missile.png
+(Loaded) damage4.png
+(Loaded) nitro4.png
+(Loaded) damage2.png
+(Loaded) armor3.png
+(Loaded) nitro2.png
+(Loaded) cover4.png
+(Loaded) hp bar.png
+(Loaded) repair-k2.png
+(Loaded) barbg.png
+(Loaded) reload bar.png
+(Loaded) sound_mute1.png
+(Loaded) sound_high1.png
+(Loaded) ymng.png
+(Loaded) explosion.png

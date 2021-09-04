@@ -1,0 +1,4 @@
+[C:\Users\KTA\Desktop\Portofolio\res\The Escape From Mars\_warning.log.txt]
+
+[WARN ] Functions.angelscript, line 8: Signed/Unsigned mismatch
+[WARN ] Functions.angelscript, line 8: Signed/Unsigned mismatch

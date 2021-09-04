@@ -1,0 +1,13 @@
+vector3 V3_RED_ORANGE = vector3(1.0f, 0.5f, 0.0f);
+vector3 V3_DARKBLUE = vector3(0.0f, 0.0f, 0.2f);
+
+
+
+uint WHITE_HALF = ARGB(199, 255, 255, 255);
+uint BLACK_HALF = ARGB(199, 0, 0, 0);
+uint LIGHT_GREY = ARGB(255,201, 201, 201);
+uint DARK_GREY = ARGB(255,80,80,80);
+uint FADE_WHITE = ARGB(0,255,255,255);
+uint AQUA_BLUE = 0xFF1C86F2; //ARGB(255,28,134,242)
+uint DEEP_RED = ARGB(255,255,0,0);
+uint DEEP_ORANGE = ARGB(255,252, 148, 3);

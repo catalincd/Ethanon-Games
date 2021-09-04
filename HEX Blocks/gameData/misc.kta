@@ -1,0 +1,17 @@
+DATA
+{
+	BEST_XP = 11971;
+	TOTAL_XP = 109909;
+}
+
+PREF
+{
+	BACK = 0;
+	BALL = ball2;
+	BLOCKS = block;
+	COLOR = 0;
+	ROTATE = 3;
+	SUFIX = _w;
+	TRAY = tray_none;
+}
+

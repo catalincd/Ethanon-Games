@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="1" sensor="0" bullet="0" fixedRotation="0" friction="1" density="1" restitution="0" gravityScale="0" applyLight="1" specularPower="50" specularBrightness="1" castShadow="0" type="5" layerDepth="0.1" static="0" blendMode="0">
+        <PivotAdjust x="0" y="20" />
+        <Sprite>ship6.png</Sprite>
+        <Normal>default_nm.png</Normal>
+        <Particles>
+            <ParticleSystem particles="30" allAtOnce="0" alphaMode="1" repeat="0" animationMode="1" boundingSphere="512" lifeTime="800" randomLifeTime="600" angleDir="0" randAngle="0" size="30" randomizeSize="0" growth="-1.5" minSize="0" maxSize="1000" angleStart="0" randAngleStart="360">
+                <Bitmap>fire.png</Bitmap>
+                <Gravity x="0" y="0" />
+                <Direction x="0" y="0" />
+                <RandomizeDir x="1" y="1" />
+                <SpriteCut x="4" y="1" />
+                <StartPoint x="-11" y="43" z="0" />
+                <RandStartPoint x="0" y="0" />
+                <Color0 r="1" g="0.5" b="0.2" a="1" />
+                <Color1 r="1" g="0.5" b="0.1" a="0" />
+                <Luminance r="1" g="1" b="1" />
+            </ParticleSystem>
+            <ParticleSystem particles="30" allAtOnce="0" alphaMode="1" repeat="0" animationMode="1" boundingSphere="512" lifeTime="800" randomLifeTime="600" angleDir="0" randAngle="0" size="30" randomizeSize="0" growth="-1.5" minSize="0" maxSize="1000" angleStart="0" randAngleStart="360">
+                <Bitmap>fire.png</Bitmap>
+                <Gravity x="0" y="0" />
+                <Direction x="0" y="0" />
+                <RandomizeDir x="1" y="1" />
+                <SpriteCut x="4" y="1" />
+                <StartPoint x="11" y="43" z="0" />
+                <RandStartPoint x="0" y="0" />
+                <Color0 r="1" g="0.5" b="0.2" a="1" />
+                <Color1 r="1" g="0.5" b="0.1" a="0" />
+                <Luminance r="1" g="1" b="1" />
+            </ParticleSystem>
+        </Particles>
+        <Light active="1" static="0" castShadows="0" range="256" haloBrightness="1" haloSize="64">
+            <Position x="0" y="-20" z="0" />
+            <Color r="0" g="1" b="1" />
+        </Light>
+        <Collision>
+            <Position x="0" y="-10" z="0" />
+            <Size x="100" y="130" z="1" />
+            <Joints>revoluteJoint0 { attachPointAX =-1.0; attachPointAY = 0.0; attachPointBX = 0.0; attachPointBY = 0.0; otherEntityName = sensorA; } revoluteJoint1 { attachPointAX = 1.0; attachPointAY = 0.0; attachPointBX = 0.0; attachPointBY = 0.0; otherEntityName = sensorB; }</Joints>
+        </Collision>
+        <CustomData />
+    </Entity>
+</Ethanon>

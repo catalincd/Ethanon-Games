@@ -1,0 +1,21 @@
+[C:\Users\KTA\Desktop\Portofolio\res\Maze\Windows & OSX\eth.log.txt]
+Backbuffer created as 480, 720 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+
+Compile time: 63 milliseconds
+(Loaded) square.png
+(Loaded) white.png
+(Loaded) slider.png
+(Loaded) switch.png
+(Loaded) circle.png
+(Loaded) tap.png
+(Loaded) arrow.png
+(Loaded) wall.png
+(Loaded) bind.png
+(Loaded) ball.png
+(Loaded) target.png
+(Loaded) flick.png
+(Loaded) stroke.png

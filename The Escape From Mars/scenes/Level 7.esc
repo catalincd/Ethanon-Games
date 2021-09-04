@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <SceneProperties lightIntensity="2" parallaxIntensity="0">
+        <Ambient r="1" g="1" b="1" />
+        <ZAxisDirection x="0" y="-1" />
+    </SceneProperties>
+    <EntitiesInScene>
+        <Entity id="1" spriteFrame="0">
+            <EntityName>background8.ent</EntityName>
+            <Position x="512" y="384" z="0" angle="0" />
+            <Entity>
+                <FileName>background8.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="14" spriteFrame="0">
+            <EntityName>enemy6.ent</EntityName>
+            <Position x="797" y="485" z="0" angle="0" />
+            <Entity>
+                <FileName>enemy6.ent</FileName>
+                <CustomData>
+                    <Variable>
+                        <Type>int</Type>
+                        <Name>hp</Name>
+                        <Value>50</Value>
+                    </Variable>
+                </CustomData>
+            </Entity>
+        </Entity>
+        <Entity id="25" spriteFrame="0">
+            <EntityName>urmaritor.ent</EntityName>
+            <Position x="748.5" y="150" z="0" angle="0" />
+            <Entity>
+                <FileName>urmaritor.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="19" spriteFrame="0">
+            <EntityName>lightning.ent</EntityName>
+            <Position x="448" y="512" z="0" angle="0" />
+            <Entity>
+                <FileName>lightning.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2" spriteFrame="0">
+            <EntityName>spaceship.ent</EntityName>
+            <Position x="302" y="459" z="0" angle="0" />
+            <Entity>
+                <FileName>spaceship.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="4" spriteFrame="0">
+            <EntityName>enemy2.ent</EntityName>
+            <Position x="166" y="150" z="0" angle="0" />
+            <Entity>
+                <FileName>enemy2.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="5" spriteFrame="0">
+            <EntityName>enemy3.ent</EntityName>
+            <Position x="318" y="125" z="0" angle="0" />
+            <Entity>
+                <FileName>enemy3.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="21" spriteFrame="0">
+            <EntityName>lightning.ent</EntityName>
+            <Position x="448" y="0" z="0" angle="0" />
+            <Entity>
+                <FileName>lightning.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+    </EntitiesInScene>
+</Ethanon>

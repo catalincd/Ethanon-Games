@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="1" sensor="0" bullet="0" fixedRotation="1" friction="1" density="1" restitution="0" gravityScale="1" applyLight="0" castShadow="0" type="5" layerDepth="0.3" static="0" blendMode="0">
+        <Sprite>missile.png</Sprite>
+        <Particles />
+        <Light active="1" static="0" castShadows="0" range="50" haloBrightness="1" haloSize="64">
+            <Position x="0" y="0" z="0" />
+            <Color r="1" g="0.5" b="0.3" />
+        </Light>
+        <Collision>
+            <Position x="0" y="0" z="0" />
+            <Size x="16" y="32" z="1" />
+        </Collision>
+        <CustomData />
+    </Entity>
+</Ethanon>

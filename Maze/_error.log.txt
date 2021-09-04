@@ -1,0 +1,5 @@
+[C:\Users\KTA\Desktop\Hex Maze\_error.log.txt]
+
+[ERROR] main.angelscript, line 103: No matching signatures to 'SetNumIterations()'
+ERROR - Failed while building module.
+ERROR - ETHEngine::StartEngine: no scene has been loaded.

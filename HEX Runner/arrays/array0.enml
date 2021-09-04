@@ -1,0 +1,12 @@
+data
+{
+	idx = 0;
+	diff = 0;
+	height = 12;
+	len = 0;
+	color = 1;
+	coins = 0;
+}
+
+
+

@@ -1,0 +1,17 @@
+[C:\Users\KTA\Desktop\Portofolio\res\Shoota\Shoota\_error.log.txt]
+Exception: Index out of bounds
+  Callstack:
+    void TurretManager::update() (TurretManager.angelscript, 82)
+    void GameScene::onUpdate() (GameScene.angelscript, 55)
+    void SceneManager::runOnSceneUpdateFunction() (SceneManager.angelscript, 123)
+    void onSceneUpdate() (SceneManager.angelscript, 146)
+
+
+Exception: Index out of bounds
+  Callstack:
+    void TurretManager::update() (TurretManager.angelscript, 82)
+    void GameScene::onUpdate() (GameScene.angelscript, 55)
+    void SceneManager::runOnSceneUpdateFunction() (SceneManager.angelscript, 123)
+    void onSceneUpdate() (SceneManager.angelscript, 146)
+
+

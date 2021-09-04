@@ -1,0 +1,26 @@
+data
+{
+	idx = 0;
+	diff = 0;
+	height = 12;
+	len = 4;
+	color = 1;
+	coins = 5;
+}
+
+entities
+{
+	entity0 = (360,384,0,0);
+	entity1 = (104,128,0,0);
+	entity2 = (104,384,0,0);
+	entity3 = (104,640,0,0);
+}
+
+coins
+{
+	coin0 = (616,128);
+	coin1 = (616,384);
+	coin2 = (616,640);
+	coin3 = (360,128); 
+	coin4 = (360,640); 
+}

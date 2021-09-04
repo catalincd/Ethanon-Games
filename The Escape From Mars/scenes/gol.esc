@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <SceneProperties lightIntensity="2" parallaxIntensity="0">
+        <Ambient r="1" g="1" b="1" />
+        <ZAxisDirection x="0" y="-1" />
+    </SceneProperties>
+    <EntitiesInScene>
+        <Entity id="3" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="640" y="128" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="4" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="896" y="128" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="5" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="896" y="384" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="6" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="640" y="384" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="9" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="128" y="640" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="10" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="384" y="640" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="11" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="640" y="640" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="12" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="896" y="640" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="1" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="128" y="128" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="384" y="128" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="7" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="384" y="384" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="8" spriteFrame="0">
+            <EntityName>piatra.ent</EntityName>
+            <Position x="128" y="384" z="0" angle="0" />
+            <Entity>
+                <FileName>piatra.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+    </EntitiesInScene>
+</Ethanon>

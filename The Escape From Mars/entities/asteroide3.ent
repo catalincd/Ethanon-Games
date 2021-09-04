@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <Entity shape="2" sensor="1" bullet="0" fixedRotation="0" friction="1" density="1" restitution="2" gravityScale="1" applyLight="1" specularPower="50" specularBrightness="1" castShadow="0" type="5" layerDepth="0.1" static="0" blendMode="0">
+        <SpriteCut x="4" y="4" />
+        <Sprite>f.png</Sprite>
+        <Normal>nm3.png</Normal>
+        <Particles />
+        <Collision>
+            <Position x="0" y="0" z="0" />
+            <Size x="108" y="108" z="1" />
+        </Collision>
+        <CustomData />
+    </Entity>
+</Ethanon>

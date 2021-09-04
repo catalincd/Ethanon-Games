@@ -1,0 +1,21 @@
+default
+{
+	title = Ethanon Engine;
+	richLighting = true;
+}
+
+windows
+{
+	width = 480;
+	height = 720;
+	windowed = true;
+	vsync = true;
+	definedWords = wind;
+}
+
+android
+{
+	width = best;
+	height = best;
+	richLighting = false;
+}

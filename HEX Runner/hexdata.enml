@@ -1,0 +1,21 @@
+data
+{
+	ads = true;
+	beta = 1;
+	color = 2;
+	drawing = true;
+	effects = true;
+	eyes = true;
+	overlay = 3;
+	sound = true;
+	tips = true;
+	touch = true;
+	unlocked = 7;
+	unlockedOverlay = 5;
+}
+
+overlay
+{
+	array = 0,1,2,3,4,5;
+}
+

@@ -1,0 +1,2 @@
+[C:\Users\KTA\Desktop\H E X\Hex Runner\_warning.log.txt]
+[WARN ] GameEffector.angelscript, line 21: Signed/Unsigned mismatch
