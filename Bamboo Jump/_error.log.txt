@@ -1,0 +1,5 @@
+[C:\Users\KTA\Desktop\Bamboo Jump\_error.log.txt]
+
+[ERROR] Jumper.angelscript, line 20: 'jumper' is not declared
+ERROR - Failed while building module.
+ERROR - ETHEngine::StartEngine: no scene has been loaded.

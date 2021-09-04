@@ -1,0 +1,48 @@
+[C:\Users\Wizard\Desktop\Portofolio\res\Bamboo Jump\Windows\eth.log.txt]
+Backbuffer created as 480, 720 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+
+Compile time: 31 milliseconds
+(Loaded) bear.png
+(Loaded) buffalo.png
+(Loaded) chick.png
+(Loaded) chicken.png
+(Loaded) cow.png
+(Loaded) crocodile.png
+(Loaded) dog.png
+(Loaded) duck.png
+(Loaded) elephant.png
+(Loaded) frog.png
+(Loaded) giraffe.png
+(Loaded) goat.png
+(Loaded) gorilla.png
+(Loaded) hippo.png
+(Loaded) horse.png
+(Loaded) monkey.png
+(Loaded) moose.png
+(Loaded) narwhal.png
+(Loaded) owl.png
+(Loaded) panda.png
+(Loaded) parrot.png
+(Loaded) penguin.png
+(Loaded) pig.png
+(Loaded) rabbit.png
+(Loaded) rhino.png
+(Loaded) sloth.png
+(Loaded) snake.png
+(Loaded) walrus.png
+(Loaded) whale.png
+(Loaded) zebra.png
+(Loaded) arrow_down.png
+(Loaded) gradient.png
+(Loaded) white.png
+(Loaded) bamboo28.png
+(Loaded) backgroundDesert.png
+(Loaded) platform.png
+(Loaded) block_b_p.png
+(Loaded) explosion.JPG
+(Loaded) backgroundCastles.png
+(Loaded) backgroundForest.png
